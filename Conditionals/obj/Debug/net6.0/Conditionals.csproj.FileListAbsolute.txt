@@ -1,0 +1,15 @@
+D:\Projekty .NET\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.exe
+D:\Projekty .NET\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.deps.json
+D:\Projekty .NET\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.runtimeconfig.json
+D:\Projekty .NET\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.dll
+D:\Projekty .NET\Conditionals\Conditionals\bin\Debug\net6.0\Conditionals.pdb
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.csproj.AssemblyReference.cache
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfoInputs.cache
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfo.cs
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.csproj.CoreCompileInputs.cache
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.dll
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\refint\Conditionals.dll
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.pdb
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\Conditionals.genruntimeconfig.cache
+D:\Projekty .NET\Conditionals\Conditionals\obj\Debug\net6.0\ref\Conditionals.dll
